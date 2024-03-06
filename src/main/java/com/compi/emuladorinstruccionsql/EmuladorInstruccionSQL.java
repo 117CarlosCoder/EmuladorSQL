@@ -11,9 +11,9 @@ public class EmuladorInstruccionSQL {
 
    
     public static void main(String[] args) {
-        //Interfaz interfaz = new Interfaz();
-        //interfaz.setVisible(true);
-        interpretar("SELECCIONAR * FILTRAR tabla1 ;");
+        Interfaz interfaz = new Interfaz();
+        interfaz.setVisible(true);
+        //interpretar("SELECCIONAR * FILTRAR tabla1 ;");
         
         
     }

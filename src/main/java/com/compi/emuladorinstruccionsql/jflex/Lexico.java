@@ -801,117 +801,117 @@ public class Lexico implements java_cup.runtime.Scanner {
           // fall through
           case 29: break;
           case 4:
-            { return new Symbol(sym.PARIZQ,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.PARIZQ, yytext());
             }
           // fall through
           case 30: break;
           case 5:
-            { return new Symbol(sym.PARDER,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.PARDER, yytext());
             }
           // fall through
           case 31: break;
           case 6:
-            { return new Symbol(sym.TIMES,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.TIMES, yytext());
             }
           // fall through
           case 32: break;
           case 7:
-            { return new Symbol(sym.PLUS,yyline,  (int) yychar, yytext());
+            { return new Symbol(sym.PLUS, yytext());
             }
           // fall through
           case 33: break;
           case 8:
-            { return new Symbol(sym.MINUS,yyline,  (int) yychar, yytext());
+            { return new Symbol(sym.MINUS, yytext());
             }
           // fall through
           case 34: break;
           case 9:
-            { return new Symbol(sym.DIVIDE,yyline,  (int) yychar, yytext());
+            { return new Symbol(sym.DIVIDE, yytext());
             }
           // fall through
           case 35: break;
           case 10:
-            { return new Symbol(sym.ENTERO,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.ENTERO, yytext());
             }
           // fall through
           case 36: break;
           case 11:
-            { return new Symbol(sym.SEMICOLON,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.SEMICOLON, yytext());
             }
           // fall through
           case 37: break;
           case 12:
-            { return new Symbol(sym.MENORQ,yyline,  (int) yychar, yytext());
+            { return new Symbol(sym.MENORQ, yytext());
             }
           // fall through
           case 38: break;
           case 13:
-            { return new Symbol(sym.EQUALS,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.EQUALS, yytext());
             }
           // fall through
           case 39: break;
           case 14:
-            { return new Symbol(sym.MAYORQ,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.MAYORQ, yytext());
             }
           // fall through
           case 40: break;
           case 15:
-            { return new Symbol(sym.COLUMNA,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.COLUMNA, yytext());
             }
           // fall through
           case 41: break;
           case 16:
-            { return new Symbol(sym.STRING,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.STRING, yytext());
             }
           // fall through
           case 42: break;
           case 17:
-            { return new Symbol(sym.EN,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.EN, yytext());
             }
           // fall through
           case 43: break;
           case 18:
-            { return new Symbol(sym.OR,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.OR, yytext());
             }
           // fall through
           case 44: break;
           case 19:
-            { return new Symbol(sym.DECIMAL,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.DECIMAL, yytext());
             }
           // fall through
           case 45: break;
           case 20:
-            { return new Symbol(sym.AND,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.AND, yytext());
             }
           // fall through
           case 46: break;
           case 21:
-            { return new Symbol(sym.ASIGNAR,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.ASIGNAR, yytext());
             }
           // fall through
           case 47: break;
           case 22:
-            { return new Symbol(sym.FILTRAR,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.FILTRAR, yytext());
             }
           // fall through
           case 48: break;
           case 23:
-            { return new Symbol(sym.VALORES,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.VALORES, yytext());
             }
           // fall through
           case 49: break;
           case 24:
-            { return new Symbol(sym.INSERTAR,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.INSERTAR, yytext());
             }
           // fall through
           case 50: break;
           case 25:
-            { return new Symbol(sym.ACTUALIZAR,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.ACTUALIZAR, yytext());
             }
           // fall through
           case 51: break;
           case 26:
-            { return new Symbol(sym.SELECCIONAR,yyline, (int) yychar, yytext());
+            { return new Symbol(sym.SELECCIONAR, yytext());
             }
           // fall through
           case 52: break;
